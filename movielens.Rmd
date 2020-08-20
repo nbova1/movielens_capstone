@@ -1,5 +1,5 @@
 ---
-title: "Movielens Capstone Project"
+title: "MovieLens Capstone Project"
 author: "Nick Bova"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
@@ -9,7 +9,7 @@ output:
 
 # Introduction
 
-This project has been prepared as part of the HarvardX Data Science Series[^1] Capstone Course. This project is an extension of the Movielens analysis that was introduced in the Machine Learning Course. During that course the base model was introduced and run against a smaller version of the data set containing 1 million records. In this project we will use a data set that contains 10 Million records. This dataset is available at grouplens.org as a zip file.[^2]
+This project has been prepared as part of the HarvardX Data Science Series[^1] Capstone Course. This project is an extension of the MovieLens analysis that was introduced in the Machine Learning Course. During that course the base model was introduced and run against a smaller version of the data set containing 1 million records. In this project we will use a data set that contains 10 Million records. This dataset is available at grouplens.org as a zip file.[^2]
 
 [^1]: <https://www.edx.org/professional-certificate/harvardx-data-science>
 
